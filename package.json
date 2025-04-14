@@ -1,0 +1,15 @@
+{
+  "name": "final-project-e2e-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igoris <i.bujenkov@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}
